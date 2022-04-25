@@ -18,3 +18,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
+![KODLUYORUZ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKodluyoruz&psig=AOvVaw2Jc-os_0afGq0o4VbIBSft&ust=1650970321389000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJi31e6Fr_cCFQAAAAAdAAAAABAD)
